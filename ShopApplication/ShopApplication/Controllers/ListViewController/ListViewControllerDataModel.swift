@@ -60,4 +60,3 @@ final class ListViewControllerDataModelImpl: ListViewControllerDataModel {
                              price: "\(item.price)")
     }
 }
-
